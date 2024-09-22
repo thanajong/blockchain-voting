@@ -15,5 +15,12 @@
   "bugs": {
     "url": "https://github.com/thanajong/blockchain-voting/issues"
   },
-  "homepage": "https://github.com/thanajong/blockchain-voting#readme"
+  "homepage": "https://github.com/thanajong/blockchain-voting#readme",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "hardhat": "^2.3.3"
+  },
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^2.0.2"
+  }
 }
